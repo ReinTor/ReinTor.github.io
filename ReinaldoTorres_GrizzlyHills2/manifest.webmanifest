@@ -1,0 +1,12 @@
+{
+  "name": "Grizzly Hills",
+  "short_name": "Grizzly Hills",
+  "id": "com.example.topdownrpg",
+  "description": "",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
